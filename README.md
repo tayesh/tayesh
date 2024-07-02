@@ -1,1 +1,1 @@
-ECHO is on.
+<p align:"right" >hello</p>
