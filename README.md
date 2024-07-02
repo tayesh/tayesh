@@ -5,6 +5,9 @@
 <div align="center">
   <h2 style="color:blue;">Hello, I am Ittihad Hasnat Tayesh. I am a passionate React developer</h2>
   <br>
+  <p>
+    I'm passionate about creating dynamic, user-friendly web applications with React. I love the challenge of turning complex requirements into seamless, intuitive interfaces. My skills in JavaScript, component-based architecture, and state management ensure efficient and high-quality code delivery.
+  </p>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayesh&theme=blue_navy&hide_border=true"/>
