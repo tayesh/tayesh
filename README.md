@@ -14,7 +14,7 @@
 
 </div>
 <div>
-  <img src="https://i.ibb.co/jGzFdGR/image.png"/>
+  <img width="40px" src="https://i.ibb.co/jGzFdGR/image.png"/>
 </div>
 
 ## 🌐 Socials:
