@@ -15,7 +15,7 @@
 </div>
 <div align="center">
   <img width="100px" src="https://i.ibb.co/jGzFdGR/image.png"/>
-  <img width="130px" src="https://i.ibb.co/G7WZVZr/image.png"/>
+  <img width="110px" src="https://i.ibb.co/G7WZVZr/image.png"/>
 </div>
 
 ## 🌐 Socials:
