@@ -15,6 +15,7 @@
 </div>
 <div>
   <img width="100px" src="https://i.ibb.co/jGzFdGR/image.png"/>
+  <img width="100px" src="https://i.ibb.co/G7WZVZr/image.png"/>
 </div>
 
 ## 🌐 Socials:
