@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayesh&theme=blue_navy&hide_border=true"/>
 
 </div>
-<div style="display:flex;align-items:center">
+<div align="center">
   <img width="100px" src="https://i.ibb.co/jGzFdGR/image.png"/>
   <img width="130px" src="https://i.ibb.co/G7WZVZr/image.png"/>
 </div>
