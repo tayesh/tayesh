@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tayesh.tayesh" />
 <div align="right" style="color: green;">
   <img src="https://i.ibb.co/WP0VBFt/Untitled-1.png"/>
 </div>
