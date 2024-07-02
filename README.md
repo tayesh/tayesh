@@ -1,3 +1,3 @@
 <div align="right" style="color: green;">
-  This is a div with red text.
+  <img src="https://i.ibb.co/WP0VBFt/Untitled-1.png"/>
 </div>
