@@ -2,8 +2,9 @@
 <div align="right" style="color: green;">
   <img src="https://i.ibb.co/WP0VBFt/Untitled-1.png"/>
 </div>
-<div>
-  <h2>Hello, I am Ittihad Hasnat Tayesh. I am a passionate React developer</h2>
+<div align="center">
+  <h2 style="color:blue;">Hello, I am Ittihad Hasnat Tayesh. I am a passionate React developer</h2>
+  <br>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayesh&theme=blue_navy&hide_border=true"/>
