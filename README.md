@@ -1,1 +1,3 @@
-<p align:"right" >hello</p>
+<div style="color: red;">
+  This is a div with red text.
+</div>
