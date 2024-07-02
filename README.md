@@ -2,8 +2,10 @@
 <div align="right" style="color: green;">
   <img src="https://i.ibb.co/WP0VBFt/Untitled-1.png"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=tayesh&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tayesh&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
 
+</div>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ittihad.hasnat.CSE.PUST) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmeittihadhasnat) 
 
