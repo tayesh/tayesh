@@ -125,13 +125,11 @@ Here are some of my key projects:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayesh&show_icons=true&theme=radical&rank_icon=github" alt="tayesh's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayesh&layout=compact&theme=vision-friendly-dark" alt="tayesh's top languages" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tayesh&theme=dark&hide_border=true" alt="tayesh's GitHub streak" />
+  <a href="https://github.com/tayesh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayesh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tayesh&theme=dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayesh&layout=compact&langs_count=8&theme=dark"/>
+  </a>
 </p>
 
 ---
