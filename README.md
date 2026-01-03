@@ -124,6 +124,13 @@ Here are some of my key projects:
 
 ## 📊 GitHub Stats
 
+**Diagnostic Image:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+
+If you can see the GitHub logo above, but not the stats below, the problem is with the stats generation services, not your README code.
+
+---
+
 <p align="center">
   <a href="https://github.com/tayesh">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayesh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
