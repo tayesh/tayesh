@@ -110,15 +110,88 @@ Here are some of the technologies I'm proficient in:
 
 ---
 
-## 🏆 Projects
+---
 
-Here are some of my key projects:
+## 🏆 Featured Projects
 
-| Project                  | Description                                                                                                                                                           | Live Link                                  |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Business International** | A robust web application designed to streamline global business operations and foster international partnerships, featuring a comprehensive set of APIs and a dynamic user interface. | [View Project](#)                             |
-| **MMB Platform**         | A comprehensive platform for the medical/bio-tech domain, focusing on secure data management and product showcasing with JWT-based authentication.                     | [View Project](https://mmbbiolab.com) |
-| **PUST Conference**      | A single-page application for the PUST conference, providing information about the event, registration, and submission guidelines.                                         | [View Project](https://peci.pust.ac.bd)  |
+### **Business International Platform** 🌐
+*A comprehensive business management platform for international operations*
+
+![Business International](https://img.shields.io/badge/Status-Active-brightgreen)
+![React](https://img.shields.io/badge/React-18-blue)
+![Node.js](https://img.shields.io/badge/Node.js-20-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-7.0-success)
+
+**Key Features:**
+- ✅ Real-time business analytics dashboard
+- ✅ Multi-currency transaction management
+- ✅ Secure document sharing with encryption
+- ✅ API integration with 10+ external services
+- ✅ Role-based access control (Admin/Manager/User)
+
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Socket.io, Chart.js
+
+**Live Demo:** [View Project](#) | **Source Code:** [GitHub](#)
+
+---
+
+### **MMB BioLab Platform** 🏥
+*Medical/Bio-tech platform for secure data management and product showcasing*
+
+![MMB Platform](https://img.shields.io/badge/Version-2.0-blueviolet)
+![React](https://img.shields.io/badge/React-18-blue)
+![Firebase](https://img.shields.io/badge/Firebase-Authentication-orange)
+
+**Key Features:**
+- 🔒 JWT-based authentication system
+- 📊 Secure patient data management
+- 🛒 E-commerce for medical products
+- 📈 Real-time inventory tracking
+- 📱 Fully responsive design
+
+**Tech Stack:** React, Firebase, Tailwind CSS, Redux, Stripe API
+
+**Live Demo:** [mmbbiolab.netlify.app](https://mmbbiolab.netlify.app) | **Source Code:** [GitHub](#)
+
+---
+
+### **PUST Conference 2024** 🎓
+*Official conference website for Pabna University of Science & Technology*
+
+![Conference](https://img.shields.io/badge/Event-2024-important)
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
+
+**Key Features:**
+- 🗓️ Interactive event schedule
+- 📝 Online paper submission system
+- 🎫 Ticket registration & payment
+- 🗣️ Speaker profiles & sessions
+- 📱 Progressive Web App (PWA)
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL
+
+**Live Demo:** [icerfest.pust.ac.bd](https://icerfest.pust.ac.bd) | **Source Code:** [GitHub](#)
+
+---
+
+### **Personal Portfolio Website** 🎨
+*Modern portfolio showcasing my projects and skills*
+
+![Portfolio](https://img.shields.io/badge/Design-Modern-9cf)
+![Three.js](https://img.shields.io/badge/Three.js-3D-grey)
+![Framer](https://img.shields.io/badge/Framer-Motion-purple)
+
+**Key Features:**
+- ✨ Interactive 3D animations with Three.js
+- 📱 Fully responsive with mobile-first approach
+- 🎯 Dark/Light mode toggle
+- 📧 Contact form with email integration
+- ⚡ Optimized for performance (95+ Lighthouse score)
+
+**Tech Stack:** React, Three.js, Framer Motion, EmailJS, Vercel
+
+**Live Demo:** [View Project](#) | **Source Code:** [GitHub](#)
 
 ---
 
