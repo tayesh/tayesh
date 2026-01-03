@@ -114,62 +114,62 @@ Here are some of the technologies I'm proficient in:
 
 ## 🏆 Featured Projects
 
-### **Business International Platform** 🌐
-*A comprehensive business management platform for international operations*
+### **Business International**
+*A robust web application designed to streamline global business operations and foster international partnerships.*
 
-![Business International](https://img.shields.io/badge/Status-Active-brightgreen)
-![React](https://img.shields.io/badge/React-18-blue)
-![Node.js](https://img.shields.io/badge/Node.js-20-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-7.0-success)
+![Business International](https://img.shields.io/badge/Status-Completed-brightgreen)
+![React](https://img.shields.io/badge/React-Vite-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-success)
 
 **Key Features:**
-- ✅ Real-time business analytics dashboard
-- ✅ Multi-currency transaction management
-- ✅ Secure document sharing with encryption
-- ✅ API integration with 10+ external services
-- ✅ Role-based access control (Admin/Manager/User)
+- ✅ User Authentication (Login, Registration)
+- ✅ Subscription & Carousel Management
+- ✅ Dynamic Content & Data Management
+- ✅ Interactive Maps (Leaflet)
+- ✅ Admin Functionalities for Content Control
 
-**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Socket.io, Chart.js
+**Tech Stack:** React, Vite, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUI, Leaflet, EmailJS
 
 **Live Demo:** [View Project](#) | **Source Code:** [GitHub](#)
 
 ---
 
-### **MMB BioLab Platform** 🏥
-*Medical/Bio-tech platform for secure data management and product showcasing*
+### **MMB (Medical/Molecular/Bio-Tech Platform)**
+*A comprehensive platform for the medical, molecular, or bio-tech domain, focusing on secure data management and product showcasing.*
 
-![MMB Platform](https://img.shields.io/badge/Version-2.0-blueviolet)
-![React](https://img.shields.io/badge/React-18-blue)
-![Firebase](https://img.shields.io/badge/Firebase-Authentication-orange)
+![MMB Platform](https://img.shields.io/badge/Status-Completed-blueviolet)
+![React](https://img.shields.io/badge/React-Vite-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 
 **Key Features:**
-- 🔒 JWT-based authentication system
-- 📊 Secure patient data management
-- 🛒 E-commerce for medical products
-- 📈 Real-time inventory tracking
-- 📱 Fully responsive design
+- 🔒 Secure User Authentication (JWT, HttpOnly Cookies)
+- 📦 Product Catalog Management
+- 🔬 Life Sciences & Molecular Diagnostics Research Data Display
+- 📞 Contact Information Management
+- 🎨 Smooth UI Animations (Framer Motion)
 
-**Tech Stack:** React, Firebase, Tailwind CSS, Redux, Stripe API
+**Tech Stack:** React, Vite, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUI, Framer Motion, Swiper
 
-**Live Demo:** [mmbbiolab.netlify.app](https://mmbbiolab.netlify.app) | **Source Code:** [GitHub](#)
+**Live Demo:** [mmbbiolab.netlify.app](https://mmbbiolab.netlify.app/) | **Source Code:** [GitHub](#)
 
 ---
 
-### **PUST Conference 2024** 🎓
-*Official conference website for Pabna University of Science & Technology*
+### **PUST Conference**
+*A conference website for PUST (Pabna University of Science and Technology).*
 
-![Conference](https://img.shields.io/badge/Event-2024-important)
-![Next.js](https://img.shields.io/badge/Next.js-14-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
+![Conference](https://img.shields.io/badge/Status-Completed-important)
+![React](https://img.shields.io/badge/React-Vite-black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-blue)
 
 **Key Features:**
-- 🗓️ Interactive event schedule
-- 📝 Online paper submission system
-- 🎫 Ticket registration & payment
-- 🗣️ Speaker profiles & sessions
-- 📱 Progressive Web App (PWA)
+- 🗓️ Conference Information Display
+- 📝 User Registration & Paper Submission Guidelines
+- 📅 Important Dates Section
+- 👥 Committee & Schedule Information
+- 📍 Accommodation & Tourist Attraction Info
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL
+**Tech Stack:** React, Vite, Tailwind CSS, DaisyUI, React Router, Framer Motion, Swiper
 
 **Live Demo:** [icerfest.pust.ac.bd](https://icerfest.pust.ac.bd) | **Source Code:** [GitHub](#)
 
