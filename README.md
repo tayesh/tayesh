@@ -124,15 +124,21 @@ Here are some of my key projects:
 
 ## 📊 GitHub Stats
 
-# GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?tayesh=octocat&show_icons=true&theme=dark)
+### **GitHub Statistics**
+![GitHub Stats](https://github-readme-stats-phi-six-24.vercel.app/api?username=tayesh&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?tayesh=octocat&layout=compact&theme=dark)
+### **Top Languages**
+![Top Languages](https://github-readme-stats-phi-six-24.vercel.app/api/top-langs/?username=tayesh&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?tayesh=octocat&theme=dark)
+### **GitHub Streak**
+![GitHub Streak](https://streak-stats.demolab.com/?user=tayesh&theme=dark&hide_border=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?tayesh=octocat&theme=dark)
+### **Activity Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayesh&theme=github&hide_border=true)
+
+</div>
 
 ---
 
