@@ -117,8 +117,8 @@ Here are some of my key projects:
 | Project                  | Description                                                                                                                                                           | Live Link                                  |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | **Business International** | A robust web application designed to streamline global business operations and foster international partnerships, featuring a comprehensive set of APIs and a dynamic user interface. | [View Project](#)                             |
-| **MMB Platform**         | A comprehensive platform for the medical/bio-tech domain, focusing on secure data management and product showcasing with JWT-based authentication.                     | [View Project](https://mmbbiolab.netlify.app/) |
-| **PUST Conference**      | A single-page application for the PUST conference, providing information about the event, registration, and submission guidelines.                                         | [View Project](https://icerfest.pust.ac.bd)  |
+| **MMB Platform**         | A comprehensive platform for the medical/bio-tech domain, focusing on secure data management and product showcasing with JWT-based authentication.                     | [View Project](https://mmbbiolab.com) |
+| **PUST Conference**      | A single-page application for the PUST conference, providing information about the event, registration, and submission guidelines.                                         | [View Project](https://peci.pust.ac.bd)  |
 
 ---
 
