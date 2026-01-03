@@ -122,23 +122,6 @@ Here are some of my key projects:
 
 ---
 
-## 📊 GitHub Stats
-
-### **GitHub Statistics**
-![GitHub Stats](https://github-readme-stats-phi-six-24.vercel.app/api?username=tayesh&show_icons=true&theme=dark)
-
-### **Top Languages**
-![Top Languages](https://github-readme-stats-phi-six-24.vercel.app/api/top-langs/?username=tayesh&layout=compact&theme=dark)
-
-### **GitHub Streak**
-![GitHub Streak](https://streak-stats.demolab.com/?user=tayesh&theme=dark)
-
-### **GitHub Trophies**
-![Trophy](https://github-profile-trophy.vercel.app/?username=tayesh&theme=dark)
-
-### **Activity Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayesh&theme=github)
-
 ### **Activity Graph**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayesh&theme=github&hide_border=true)
 
