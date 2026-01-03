@@ -124,27 +124,25 @@ Here are some of my key projects:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+### **GitHub Statistics**
+![GitHub Stats](https://github-readme-stats-phi-six-24.vercel.app/api?username=tayesh&show_icons=true&theme=dark)
 
-### **Basic Stats**
-![Followers](https://img.shields.io/github/followers/tayesh?style=for-the-badge&label=Followers&color=blue)
-![Stars](https://img.shields.io/github/stars/tayesh?style=for-the-badge&label=Stars&color=yellow)
-![Repos](https://img.shields.io/badge/Public%20Repos-8-blue?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/Total%20Contributions-50+-brightgreen?style=for-the-badge)
-
-### **Language Stats**
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-20%25-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-15%25-green?style=flat-square)
-![Other](https://img.shields.io/badge/Other-5%25-grey?style=flat-square)
+### **Top Languages**
+![Top Languages](https://github-readme-stats-phi-six-24.vercel.app/api/top-langs/?username=tayesh&layout=compact&theme=dark)
 
 ### **GitHub Streak**
-![GitHub Streak](https://streak-stats.demolab.com/?user=tayesh&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tayesh&theme=dark)
+
+### **GitHub Trophies**
+![Trophy](https://github-profile-trophy.vercel.app/?username=tayesh&theme=dark)
+
+### **Activity Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayesh&theme=github)
 
 ### **Activity Graph**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayesh&theme=github&hide_border=true)
 
-</div>
+
 
 ---
 
